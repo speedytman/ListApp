@@ -1,15 +1,16 @@
 {
   "expo": {
-    "name": "RNCourse",
+    "name": "Easy List",
     "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#75DDDD",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#508991"
     },
     "assetBundlePatterns": [
       "**/*"
